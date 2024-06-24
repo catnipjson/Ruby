@@ -74,7 +74,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#E6B4B4",
+      "#452F2F",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -179,7 +179,7 @@
     "BRAND_560": "#624B4B",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
-    "YELLOW_300": "#9A6969",
+    "YELLOW_300": "#452F2F",
     "GREEN_600": "#ffffff",
     "DANGER": "#89D59E",
     "RED": "#848484",
